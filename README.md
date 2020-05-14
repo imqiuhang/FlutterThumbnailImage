@@ -19,7 +19,7 @@ image String 原图URL
 
 ###### 可选
 
-```
+``` dart
 appendKLSize bool 是否拼接KLSize参数，默认true
 placeHolderImage String 居中适应的 占位图
 placeHolderColor Color 整个区域的占位背景色
@@ -28,7 +28,7 @@ fit BoxFit image的fit
 width / height double image的size 居中适应的 占位图,如果传了，拼接参数会直接使用这个尺寸，如果不传，则会在渲染之后拿到当前widget的render object取size后再去做拼接
 ```
 ##### Usage 
-```
+``` dart
 KLImage.largePlaceholderStyle(...)  //考拉(大)占位图 ，默认灰色底占位 ，默认BoxFit.cover 适合feed流的大图封面
 KLImage.grayColorStyle(...)  //默认灰色底占位，无占位图，默认BoxFit.cover，适合头像，商品图等小图
 ```
