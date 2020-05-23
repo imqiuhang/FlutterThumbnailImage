@@ -1,4 +1,7 @@
 # FlutterThumbnailImage
+
+#### 等有时间做完 通过纹理将图片缓存对接到native的缓存框架(例如iOS的SDWebImage)就会打包到pub里
+
 ###### flutter image,自动裁剪参数拼接、自定义placeholder支持、图片纹理对接native缓存
 
 
