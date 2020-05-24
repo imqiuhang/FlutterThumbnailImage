@@ -38,4 +38,4 @@ KLImage.grayColorStyle(...)  //默认灰色底占位，无占位图，默认BoxF
 
 ##### 如何工作？
 
-![flow](https://github.com/imqiuhang/FlutterThumbnailImage/blob/master/1584964057796-deefb231-930c-4f8b-8ab8-a38b0427875e.jpeg)
+![flow](https://upload-images.jianshu.io/upload_images/3058688-d0ff97c36c2f6642.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/600)
